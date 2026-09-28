@@ -1,4 +1,3 @@
-// 20sep_area_overloading.cpp
 #include <iostream>
 #include <cmath>
 using namespace std;

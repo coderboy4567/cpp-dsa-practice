@@ -1,4 +1,3 @@
-// 27sep_template_second_largest.cpp
 #include <iostream>
 using namespace std;
 
