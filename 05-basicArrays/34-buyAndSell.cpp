@@ -14,7 +14,6 @@ int main() {
             minPrice = prices[i];
         } 
         else {
-            // Agar aaj bechte hain toh kitna fayda hoga?
             int currentProfit = prices[i] - minPrice;
         
             if (currentProfit > maxProfit) {
